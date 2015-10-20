@@ -11,6 +11,8 @@
         optimization
         implement -l, -R, -1, -i, -d, -a, -h 
         sorting
+      BUILD:
+        gcc -o pls pls.c 
 */
 
 #include <errno.h>
